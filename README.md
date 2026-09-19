@@ -139,7 +139,7 @@ DrowsinessDetector/
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/ayxsha04/DrowsinessDetector.git
 cd DrowsinessDetector
 ```
 
